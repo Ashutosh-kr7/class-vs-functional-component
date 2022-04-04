@@ -14,10 +14,10 @@ const FunctionalComponent = () => {
       <h1 className="count">{count}</h1>
 
       <button type="button" onClick={handleIncrement}>
-        Increment
+        Increment.
       </button>
       <button type="button" onClick={handleDecrement}>
-        Decrement
+        Decrement.
       </button>
     </div>
   );
